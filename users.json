@@ -1,0 +1,12 @@
+{"users": [
+{
+  "localId": "brandNewExample",
+  "email": "example@email.com",
+  "emailVerified": false,
+  "passwordHash": "replace_me",
+  "salt": "replace_me",
+  "lastSignedInAt": "1624613345055",
+  "createdAt": "1621041537556",
+  "disabled": false,
+  "providerUserInfo": []
+}]}
